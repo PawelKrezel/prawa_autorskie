@@ -39,7 +39,6 @@ button:hover
 section
 {
 	padding: 10px;
-	transition-duration: 0.5s;
 }
 section:hover
 {
